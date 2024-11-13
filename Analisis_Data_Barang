@@ -1,0 +1,15 @@
+1. Analisis Studi Kasus - TEMA DATA BARANG
+
+Studi kasus ini berpusat pada data barang dan mencakup berbagai aspeknya, seperti informasi barang, stok, harga, kategori, supplier, dan lainnya. Aplikasi yang dibuat dapat digunakan oleh toko, gudang, atau bisnis yang mengelola banyak barang.
+Analisis Fungsional dilakukan: Pendaftaran dan Penyaringan Barang: Pengguna dapat menambahkan data barang baru, seperti nama, kode, kategori, harga, dan jumlah stok. Pencarian dan Penyaringan Barang: Pengguna dapat mencari dan memfilter data barang berdasarkan nama, kategori, atau parameter lainnya.
+Pengeditan dan Penghapusan Barang: 
+
+Pengguna dapat mengubah data yang ada tentang barang tersebut atau menghapus data yang tidak diperlukan.
+Laporan Barang: Aplikasi harus dapat menampilkan laporan tentang data barang, seperti harga barang atau stok rendah.
+
+Evaluasi Teknis:
+
+Python (bisa digunakan dengan framework seperti Flask atau Django), JavaScript (bisa digunakan untuk frontend aplikasi berbasis web).
+Database untuk menyimpan data barang: SQLite, MySQL, atau database lainnya. Fitur utamanya adalah CRUD untuk data barang, yang berarti membuat, membaca, mengubah, dan menghapus.
+Validasi data input untuk memastikan bahwa data yang dimasukkan adalah valid.
+Untuk keamanan tambahan, autentikasi pengguna dapat dipilih.
